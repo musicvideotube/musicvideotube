@@ -227,7 +227,6 @@ yandex.com, 97539269, RESELLER
 yeahmobi.com, 5135195, RESELLER
 
 ironsrc.com, [288699], Direct
-Remember to replace [288699]
 
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
